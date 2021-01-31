@@ -1,2 +1,2 @@
-# DataLoading
-Data loading, chapter 16 from Eric Matthes book.
+# Загрузка данных 
+Глава 16 книги "изучаем Python - программирование игр, визуализация данных, веб-приложения. Эрик Мэтиз"
